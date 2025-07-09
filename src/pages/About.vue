@@ -4,12 +4,12 @@
 
     <div class="text-lg space-y-4">
       <p>
-        Hi, I'm <span class="font-semibold text-blue-400">Sereyriddh Meng</span>, and I hold a degree of <span class="font-semibold text-blue-400">Bachelor of Science in Computer Science</span> from 
-        <span class="font-semibold text-blue-400">Paragon International University</span>
+        {{ $t('about.hi') }} <span class="font-semibold text-blue-400">{{ $t('about.name') }}</span>{{ $t('about.hold') }}<span class="font-semibold text-blue-400">{{ $t('about.degree') }}</span>{{ $t('about.from') }}
+        <span class="font-semibold text-blue-400">{{ $t('about.school') }}</span>
       </p>
 
       <p>
-        I really like:
+        {{ $t('about.like') }}
       </p>
 
       <ul class="list-none space-y-2">
