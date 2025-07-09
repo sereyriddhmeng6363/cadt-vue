@@ -13,5 +13,14 @@
     >
       View Projects
     </router-link>
+    <br>
+<a
+  href="https://github.com/sereyriddhmeng6363/cadt-vue"
+  target="_blank"
+  rel="noopener noreferrer"
+  class="mt-6 inline-block bg-blue-500 text-white px-6 py-2 rounded"
+>
+  View scource code
+</a>
   </section>
 </template>
