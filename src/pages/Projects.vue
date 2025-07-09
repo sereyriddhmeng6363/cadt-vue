@@ -33,20 +33,20 @@ export default {
       projects: [
         {
           id: 1,
-          title: 'Portfolio Website',
-          description: 'A personal portfolio made with Vue.',
+          title: 'Game Project',
+          description: 'My Game Development Project.',
           image: '/src/assets/project1.jpg'
         },
         {
           id: 2,
-          title: 'Task Manager',
-          description: 'Manage tasks and todos.',
+          title: 'Mobile App Project',
+          description: 'My Mobile App Development Project.',
           image: '/src/assets/project2.jpg'
         },
         {
           id: 3,
-          title: 'Blog Platform',
-          description: 'Create and read blog posts.',
+          title: 'AI Project',
+          description: 'My AI Development Project.',
           image: '/src/assets/project3.jpg'
         }
       ]
