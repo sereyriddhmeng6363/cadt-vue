@@ -35,19 +35,19 @@ export default {
           id: 1,
           title: 'Game Project',
           description: 'My Game Development Project.',
-          image: '/src/assets/project1.jpg'
+          image: 'https://mir-s3-cdn-cf.behance.net/projects/max_808/b52a47185064439.Y3JvcCwxMzgwLDEwODAsMjcwLDA.jpg'
         },
         {
           id: 2,
           title: 'Mobile App Project',
           description: 'My Mobile App Development Project.',
-          image: '/src/assets/project2.jpg'
+          image: 'https://vtechpk.com/wp-content/uploads/2022/02/Custom-Mobile-App-Development.jpg'
         },
         {
           id: 3,
           title: 'AI Project',
           description: 'My AI Development Project.',
-          image: '/src/assets/project3.jpg'
+          image: 'https://cms.rootstack.com/sites/default/files/inline-images/Captura%20de%20pantalla%202023-07-28%20a%20la(s)%2017.22.21.jpg'
         }
       ]
     };
